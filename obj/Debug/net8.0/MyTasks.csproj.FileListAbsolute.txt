@@ -1,0 +1,14 @@
+E:\dotnetEstudos\MyTasks\bin\Debug\net8.0\MyTasks.exe
+E:\dotnetEstudos\MyTasks\bin\Debug\net8.0\MyTasks.deps.json
+E:\dotnetEstudos\MyTasks\bin\Debug\net8.0\MyTasks.runtimeconfig.json
+E:\dotnetEstudos\MyTasks\bin\Debug\net8.0\MyTasks.dll
+E:\dotnetEstudos\MyTasks\bin\Debug\net8.0\MyTasks.pdb
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.AssemblyInfoInputs.cache
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.AssemblyInfo.cs
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.csproj.CoreCompileInputs.cache
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.dll
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\refint\MyTasks.dll
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.pdb
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\MyTasks.genruntimeconfig.cache
+E:\dotnetEstudos\MyTasks\obj\Debug\net8.0\ref\MyTasks.dll
